@@ -6,17 +6,15 @@ This is **Jia-Rui Zhang**, a senior undergraduate student at the College of Scie
 
 Next year, he will go to Peking University to pursue a Ph.D., focusing on solid mechanics.
 
-[I haven't decided what to put here yet.](./another-page.html).
+[I haven't decided what to put here yet...](./another-page.html)
 
 # Education
 
 China Agricultural University (CAU) *Sep 2020 - Present*
 - B.Eng. in Engineering Mechanics (Major) *Expected in July 2024*
+  - Overall GPA:3.85/4
+  - Ranking: 1/26
 - B.S. in Mathematics and Applied Mathematics (Minor)
-
-Overall GPA:3.85/4
-
-Ranking: 1/26 in Engineering Mechanics
 
 # Featured research
 
@@ -51,9 +49,11 @@ Ranking: 1/26 in Engineering Mechanics
 - The 14th National Zhou Peiyuan Competition on Mechanics for college students
   - Excellence Prize, Chinese Society of Theoretical and Applied Mechanics *2023*
 - The 38th Physics competition for college students in some regions across the country
-  -1st Prize, Beijing Physical Society *2021*
+  - 1st Prize, Beijing Physical Society *2021*
 - 2023 Extracurricular Researches and Tech Products Contest for College Students in Beijing
   - 3rd Prize, Beijing Municipal Commission of Education *2023*
+
+
 
 <!--
 #

@@ -26,8 +26,8 @@ China Agricultural University (CAU) *Sep 2020 - Present*
 
 # Selected Scholarship:
 
-- President Scholarship (Highest Honor for undergraduates in CAU) 2022
-- National Scholarship (Top 1%) 2022
+- President Scholarship (Highest Honor for undergraduates in CAU) *2022*
+- National Scholarship (Top 1%) *2022*
 
 # Research Experience
 

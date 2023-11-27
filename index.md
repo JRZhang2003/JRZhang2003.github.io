@@ -6,7 +6,7 @@ This is **Jia-Rui Zhang**, a senior undergraduate student at the College of Scie
 
 Next year, he will go to Peking University to pursue a Ph.D., focusing on solid mechanics.
 
-[I haven't decided what to put here yet...](./another-page.html)
+[Contact information](./another-page.html)
 
 # Education
 

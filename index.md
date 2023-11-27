@@ -3,6 +3,7 @@ layout: default
 ---
 
 This is **Jia-Rui Zhang**, a senior undergraduate student at the College of Science, China Agricultural University, majoring in Engineering Mechanics and minoring in Mathematics and Applied Mathematics.
+
 Next year, he will go to Peking University to pursue a Ph.D., focusing on solid mechanics.
 
 [I haven't decided what to put here yet.](./another-page.html).
@@ -12,7 +13,9 @@ Next year, he will go to Peking University to pursue a Ph.D., focusing on solid 
 China Agricultural University (CAU) *Sep 2020 - Present*
 - B.Eng. in Engineering Mechanics (Major) *Expected in July 2024*
 - B.S. in Mathematics and Applied Mathematics (Minor)
+
 Overall GPA:3.85/4
+
 Ranking: 1/26 in Engineering Mechanics
 
 # Featured research

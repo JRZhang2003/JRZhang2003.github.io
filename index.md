@@ -24,7 +24,7 @@ China Agricultural University (CAU) *Sep 2020 - Present*
 - Da Lin, Kai-Ru Dong, <b>Jia-Rui Zhang</b>, Yu-Jia Shen<sup>*</sup>: Effect of near PT-symmetric potentials on nonlinear modes for higher-order generalized Ginzburg-Landau model. <a href="https://iopscience.iop.org/article/10.1088/1572-9494/ac8afd">Commun. Theor. Phys. 74 125001 (2022).
 - <b>Jia-Rui Zhang</b>, Jia-Qi Zhang, Zhao-Lin Zheng, Da Lin, Yu-Jia Shen<sup>*</sup>: Dynamic behavior and stability analysis of nonlinear modes in the fourth-order generalized Ginzburg-Landau model with near PT-symmetric potentials. <a href="https://link.springer.com/article/10.1007/s11071-022-07441-3">Nonlinear Dyn. 109 1005-1017 (2022).
 
-# Research Experience
+# Research experience
 
 - Analytical and numerical investigate of PT-symmetrically coupled nonlinear wave systems
   - Advised by Dr. Yu-Jia Shen (CAU) *June 2023 - Present*
@@ -36,12 +36,12 @@ China Agricultural University (CAU) *Sep 2020 - Present*
   - Advised by Dr. Yu-Jia Shen (CAU) *May 2021 - Apr 2022*
   - CAU Undergraduate Research Program, Project leader
 
-# Selected Scholarship:
+# Selected scholarship
 
 - President Scholarship (Highest Honor for undergraduates in CAU) *2022*
 - National Scholarship (Top 1%) *2022*
 
-# Selected Awards
+# Selected awards
 - National Xu Zhilun Mechanics Outstanding Student Award
   - Chinese Society of Theoretical and Applied Mechanics *2022*
 - Beijing Merit Student

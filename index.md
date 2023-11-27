@@ -8,17 +8,12 @@ This is **Jia-Rui Zhang**, a senior undergraduate student at the College of Scie
 
 # Education
 
-China Agricultural University (CAU) Sep 2020 - Present
-*   B.Eng. in Engineering Mechanics (Major) Expected in July 2024
-*   B.S. in Mathematics and Applied Mathematics (Minor)
-    
- Overall GPA:3.85/4 Ranking: 1/26 in Engineering Mechanics
-• Selected Scholarship:
-∗ President Scholarship (Highest Honor for undergraduates in CAU) 2022
-∗ National Scholarship (Top 1%) 2022
-</ul>
+China Agricultural University (CAU) *Sep 2020 - Present*
+- B.Eng. in Engineering Mechanics (Major) *Expected in July 2024*
+- B.S. in Mathematics and Applied Mathematics (Minor)
+  - Overall GPA:3.85/4 Ranking: 1/26 in Engineering Mechanics
 
-# Featured research
+# Publication
 
 <ul>
     <li> <b>Jia-Rui Zhang</b>, Xia Wang: Stability analysis of nonlinear localized modes in the coupled Gross-Pitaevskii equations with PT-symmetric Scarf-II potential. <a href="https://arxiv.org/abs/2306.03012v1">arXiv 2306.03012 (2023).</a> </li>
@@ -27,6 +22,22 @@ China Agricultural University (CAU) Sep 2020 - Present
     <li> <b>Jia-Rui Zhang</b>, Jia-Qi Zhang, Zhao-Lin Zheng, Da Lin, Yu-Jia Shen: Dynamic behavior and stability analysis of nonlinear modes in the fourth-order generalized Ginzburg-Landau model with near PT-symmetric potentials. <a href="https://link.springer.com/article/10.1007/s11071-022-07441-3">Nonlinear Dyn. 109 1005-1017 (2022).</a> </li>
 </ul>
 
+# Selected Scholarship:
+
+- President Scholarship (Highest Honor for undergraduates in CAU) 2022
+- National Scholarship (Top 1%) 2022
+
+# Research Experience
+
+- Analytical and numerical investigate of PT-symmetrically coupled nonlinear wave systems
+  - Advised by Dr. Yu-Jia Shen (CAU) *June 2023 - Present*
+  - Beijing College Student Innovation Training Program, Key members
+- Stability analysis of soliton solutions of nonlinear evolutionary equations in fluid mechanics
+  - Advised by Dr. Yu-Jia Shen (CAU) *Apr 2022 - May 2023*
+  - National College Student Innovation Training Program, Project leader
+- Numerical simulation methods for nonlinear evolutionary equations
+  - Advised by Dr. Yu-Jia Shen (CAU) *May 2021 - Apr 2022*
+  - CAU Undergraduate Research Program, Project leader
 ## Affiliations
 
 > This is a blockquote following a header.

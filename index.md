@@ -20,13 +20,11 @@ Ranking: 1/26 in Engineering Mechanics
 
 # Featured research
 
-<ul>
-    <li> <b>Jun-Yi Lao, Zi-Yang Qin, <b>Jia-Rui Zhang</b>, Yu-Jia Shen^*^: Peakons in spinor F=1 Bose-Einstein condenstate with PT-symmetric δ-function potentials. <a href="https://doi.org">Under Review.</a> </li>
-    <li> <b>Jia-Rui Zhang</b>^*^, Xia Wang: Stability analysis of nonlinear localized modes in the coupled Gross-Pitaevskii equations with PT-symmetric Scarf-II potential. <a href="https://arxiv.org/abs/2306.03012v1">arXiv 2306.03012 (2023).</a> </li>
-    <li> <b>Jia-Rui Zhang</b>, Fang-Yu Zhu, Wan-Peng Li, Yu-Jia Shen^*^: Solitons in fourth-order Schrodinger equation with parity-time-symmetric extended Rosen-Morse potentials. <a href="https://iopscience.iop.org/article/10.1088/1402-4896/ace392">Phys. Scripta. 98 085217 (2023).</a> </li>
-    <li> Da Lin, Kai-Ru Dong, <b>Jia-Rui Zhang</b>, Yu-Jia Shen^*^: Effect of near PT-symmetric potentials on nonlinear modes for higher-order generalized Ginzburg-Landau model. <a href="https://iopscience.iop.org/article/10.1088/1572-9494/ac8afd">Commun. Theor. Phys. 74 125001 (2022).</a> </li>
-    <li> <b>Jia-Rui Zhang</b>, Jia-Qi Zhang, Zhao-Lin Zheng, Da Lin, Yu-Jia Shen^*^: Dynamic behavior and stability analysis of nonlinear modes in the fourth-order generalized Ginzburg-Landau model with near PT-symmetric potentials. <a href="https://link.springer.com/article/10.1007/s11071-022-07441-3">Nonlinear Dyn. 109 1005-1017 (2022).</a> </li>
-</ul>
+- Jun-Yi Lao, Zi-Yang Qin, <b>Jia-Rui Zhang</b>, Yu-Jia Shen^*^: Peakons in spinor F=1 Bose-Einstein condenstate with PT-symmetric δ-function potentials. <a href="https://doi.org">Under Review.
+- <b>Jia-Rui Zhang</b>^*^, Xia Wang: Stability analysis of nonlinear localized modes in the coupled Gross-Pitaevskii equations with PT-symmetric Scarf-II potential. <a href="https://arxiv.org/abs/2306.03012v1">arXiv 2306.03012 (2023).
+- <b>Jia-Rui Zhang</b>, Fang-Yu Zhu, Wan-Peng Li, Yu-Jia Shen^*^: Solitons in fourth-order Schrodinger equation with parity-time-symmetric extended Rosen-Morse potentials. <a href="https://iopscience.iop.org/article/10.1088/1402-4896/ace392">Phys. Scripta. 98 085217 (2023).
+- Da Lin, Kai-Ru Dong, <b>Jia-Rui Zhang</b>, Yu-Jia Shen^*^: Effect of near PT-symmetric potentials on nonlinear modes for higher-order generalized Ginzburg-Landau model. <a href="https://iopscience.iop.org/article/10.1088/1572-9494/ac8afd">Commun. Theor. Phys. 74 125001 (2022).
+- <b>Jia-Rui Zhang</b>, Jia-Qi Zhang, Zhao-Lin Zheng, Da Lin, Yu-Jia Shen^*^: Dynamic behavior and stability analysis of nonlinear modes in the fourth-order generalized Ginzburg-Landau model with near PT-symmetric potentials. <a href="https://link.springer.com/article/10.1007/s11071-022-07441-3">Nonlinear Dyn. 109 1005-1017 (2022).
 
 # Selected Scholarship:
 

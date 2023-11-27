@@ -2,17 +2,17 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+This is **Jia-Rui Zhang**, a senior undergraduate student at the College of Science, China Agricultural University, majoring in Engineering Mechanics and minoring in Mathematics and Applied Mathematics. Next year, he will go to Peking University to pursue a Ph.D., focusing on solid mechanics.
 
-[Link to another page](./another-page.html).
+[I haven't decided what to put here yet.](./another-page.html).
 
-There should be whitespace between paragraphs.
+# Featured research
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<ul>
+    <li> <b>Jia-Rui Zhang</b>, Jia-Qi Zhang, Zhao-Lin Zheng, Da Lin, Yu-Jia Shen: Dynamic behavior and stability analysis of nonlinear modes in the fourth-order generalized Ginzburg-Landau model with near PT-symmetric potentials. <a href="https://link.springer.com/article/10.1007/s11071-022-07441-3">Nonlinear Dyn. 109 1005-1017 (2022).</a> </li>
+    <li> Da Lin, Kai-Ru Dong, <b>Jia-Rui Zhang</b>, Yu-Jia Shen: Effect of near PT-symmetric potentials on nonlinear modes for higher-order generalized Ginzburg-Landau model. <a href="https://iopscience.iop.org/article/10.1088/1572-9494/ac8afd">Commun. Theor. Phys. 74 125001 (2022).</a> </li>
+    <li> <b>Jia-Rui Zhang</b>, Fang-Yu Zhu, Wan-Peng Li, Yu-Jia Shen: Solitons in fourth-order Schrodinger equation with parity-time-symmetric extended Rosen-Morse potentials. <a href="https://iopscience.iop.org/article/10.1088/1402-4896/ace392">Phys. Scripta. 98 085217 (2023).</a> </li>
+</ul>
 
 ## Header 2
 

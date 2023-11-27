@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## You can also find me in these ways
 
 _yay_
 

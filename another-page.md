@@ -6,7 +6,7 @@ layout: default
 
 - Phone: +86-18838697985
 - E-mail: jrzhang2003@gmail.com
-- 
+
 # You can also find me in these ways
 
 - <a href="https://twitter.com/YUNSHENCHUYI">Twitter</a>

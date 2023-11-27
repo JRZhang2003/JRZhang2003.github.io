@@ -12,7 +12,7 @@ Next year, he will go to Peking University to pursue a Ph.D., focusing on solid 
 
 China Agricultural University (CAU) *Sep 2020 - Present*
 - B.Eng. in Engineering Mechanics (Major) *Expected in July 2024*
-  - Overall GPA:3.85/4
+  - Overall GPA: 3.85/4
   - Ranking: 1/26
 - B.S. in Mathematics and Applied Mathematics (Minor)
 

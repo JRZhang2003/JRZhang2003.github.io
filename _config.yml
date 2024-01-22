@@ -1,8 +1,8 @@
 title: Jia-Rui Zhang
 logo: /assets/img/logo.png
 description: Jia-Rui in Lake Geneva
-logo1: /assets/img/logo1.jpg
-description1: Jia-Rui in Universal Beijing Resort
+# logo1: /assets/img/logo1.jpg
+# description1: Jia-Rui in Universal Beijing Resort
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal

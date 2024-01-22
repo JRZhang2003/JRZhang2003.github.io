@@ -46,7 +46,7 @@ China Agricultural University (CAU) *Sep 2020 - Present*
   - Excellence Prize, Chinese Society of Theoretical and Applied Mechanics *2023*
 - 2023 Extracurricular Researches and Tech Products Contest for College Students in Beijing
   - 3rd Prize, Beijing Municipal Commission of Education *2023*
-  - - Beijing Merit Student
+- Beijing Merit Student
   - Beijing Municipal Commission of Education *2023*
 - China Mechanics Outstanding Student Award in Honour of Xu Zhilun
   - Chinese Society of Theoretical and Applied Mechanics *2022*

@@ -42,11 +42,11 @@ China Agricultural University (CAU) *Sep 2020 - Present*
 - National Scholarship (Top 1%) *2022*
 
 # Selected awards
-- National Xu Zhilun Mechanics Outstanding Student Award
+- China Mechanics Outstanding Student Award in Honour of Xu Zhilun
   - Chinese Society of Theoretical and Applied Mechanics *2022*
 - Beijing Merit Student
   - Beijing Municipal Commission of Education *2023*
-- The 14th National Zhou Peiyuan Competition on Mechanics for college students
+- The 14th China Mechanics Competition in Honour of Zhou Peiyuan
   - Excellence Prize, Chinese Society of Theoretical and Applied Mechanics *2023*
 - The 38th Physics competition for college students in some regions across the country
   - 1st Prize, Beijing Physical Society *2021*

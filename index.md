@@ -42,6 +42,8 @@ China Agricultural University (CAU) *Sep 2020 - Present*
 - National Scholarship (Top 1%) *2022*
 
 # Selected awards
+- The 16th National College Students Innovation Annual Metting
+  - Accept, Hainan University *2023*
 - The 14th China Mechanics Competition in Honour of Zhou Peiyuan
   - Excellence Prize, Chinese Society of Theoretical and Applied Mechanics *2023*
 - 2023 Extracurricular Researches and Tech Products Contest for College Students in Beijing

@@ -18,7 +18,7 @@ China Agricultural University (CAU) *Sep 2020 - Present*
 
 # Featured research
 
-- Jun-Yi Lao, Zi-Yang Qin, <b>Jia-Rui Zhang</b>, Yu-Jia Shen<sup>*</sup>: Peakons in spinor F=1 Bose-Einstein condenstate with PT-symmetric δ-function potentials. <a href="https://doi.org">Chaos, Solitons & Fractals (2024) Accepted.
+- Jun-Yi Lao, Zi-Yang Qin, <b>Jia-Rui Zhang</b>, Yu-Jia Shen<sup>*</sup>: Peakons in spinor F=1 Bose-Einstein condenstate with PT-symmetric δ-function potentials. <a href="https://doi.org/10.1016/j.chaos.2024.114497">Chaos, Solitons & Fractals 180 114497 (2024).
 - <b>Jia-Rui Zhang</b><sup>*</sup>, Xia Wang: Stability analysis of nonlinear localized modes in the coupled Gross-Pitaevskii equations with PT-symmetric Scarf-II potential. <a href="https://arxiv.org/abs/2306.03012v1">arXiv 2306.03012 (2023).
 - <b>Jia-Rui Zhang</b>, Fang-Yu Zhu, Wan-Peng Li, Yu-Jia Shen<sup>*</sup>: Solitons in fourth-order Schrodinger equation with parity-time-symmetric extended Rosen-Morse potentials. <a href="https://iopscience.iop.org/article/10.1088/1402-4896/ace392">Physica Scripta 98 085217 (2023).
 - Da Lin, Kai-Ru Dong, <b>Jia-Rui Zhang</b>, Yu-Jia Shen<sup>*</sup>: Effect of near PT-symmetric potentials on nonlinear modes for higher-order generalized Ginzburg-Landau model. <a href="https://iopscience.iop.org/article/10.1088/1572-9494/ac8afd">Communications in Theoretical Physics 74 125001 (2022).

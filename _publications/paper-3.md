@@ -4,5 +4,5 @@ collection: publications
 permalink: /publication/paper-3
 date: 2023-08-01
 venue: 'Physica Scripta'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://jrzhang2003.github.io/files/paper3.pdf'
 ---

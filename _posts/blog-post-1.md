@@ -1,7 +1,7 @@
 ---
 title: '毕业了'
 date: 2024-06-22
-permalink: /posts/blog-post-1/
+permalink: /posts/24/06/blog-post-1/
 tags:
   - 再见
 ---

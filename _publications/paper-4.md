@@ -3,6 +3,6 @@ title: "Stability analysis of nonlinear localized modes in the coupled Gross-Pit
 collection: publications
 permalink: /publication/paper-4
 date: 2023-11-27
-venue: 'PLoS One'
+venue: 'arXiV'
 paperurl: 'http://academicpages.github.io/files/paper4.pdf'
 ---

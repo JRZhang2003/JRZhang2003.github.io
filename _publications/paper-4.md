@@ -4,5 +4,5 @@ collection: publications
 permalink: /publication/paper-4
 date: 2023-11-27
 venue: 'arXiV'
-paperurl: 'http://academicpages.github.io/files/paper4.pdf'
+paperurl: 'http://jrzhang2003.github.io/files/paper4.pdf'
 ---

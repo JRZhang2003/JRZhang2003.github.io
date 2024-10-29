@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D student in Solid Mechanics, Peking University
-* B.S. in Mathematics and Applide Mathematics, China Agricultural University, 2024
-* B.Eng. in Engineering Mechanics, China Agricultural University, 2024
+* Ph.D student in Solid Mechanics, Peking University, 2024-
+* B.S. in Mathematics and Applide Mathematics, China Agricultural University, 2022-2024
+* B.Eng. in Engineering Mechanics, China Agricultural University, 2020-2024
 
 Publications
 ======

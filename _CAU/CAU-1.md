@@ -1,6 +1,6 @@
 ---
 title: "Dynamic behavior and stability analysis of nonlinear modes in the fourth-order generalized Ginzburg-Landau model with near PT-symmetric potentials"
-collection: publications
+collection: CAU
 permalink: /CAU/CAU-1
 date: 2022-05-05
 venue: 'Nonlinear Dynamics'

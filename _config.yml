@@ -275,7 +275,7 @@ defaults:
   # _CAU
   - scope:
       path: ""
-      type: CAU
+      type: publications
     values:
       layout: single
       author_profile: true

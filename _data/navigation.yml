@@ -16,7 +16,8 @@ main:
     url: /year-archive/
 
   - title: "CAU"
-    url: /CAU/
+    url: /teaching/    
+#    url: /CAU/
     
   - title: "CV"
     url: /cv/

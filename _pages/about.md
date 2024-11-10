@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-This is **Jia-Rui Zhang**, a senior undergraduate student at the College of Science, China Agricultural University, majoring in Engineering Mechanics and minoring in Mathematics and Applied Mathematics.
+This is **Jia-Rui Zhang**, a PhD student at the College of Engineering, Pkeing University, majoring in solid mechanics. He is currently conducting research on Dislocation Dynamics under the guidance of Professor Yin Zhang.
 
-September this year, he will go to Peking University to pursue a Ph.D., focusing on solid mechanics.
+He graduated from China Agricultural University in June 2024, with a Bachelor of Engineering in Engineering Mechanics and a Bachelor of Science in Mathematics and Applied Mathematics. During his undergraduate studies, he conducted research on nonlinear PT-symmetric systems and solitons under the guidance of Professor Yu-Jia Shen.
